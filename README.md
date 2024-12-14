@@ -14,7 +14,7 @@ I am a developer, student, and lifelong learner. Here's what I'm currently worki
 
 ## Projects
 Here are some of my favorite projects:
-1. **[GLBL5050 Final Project]([https://github.com/yourusername/project1](https://github.com/Angela1112005/Intro_Python_HW/blob/main/GLBL%205050%20Final%20Project.ipynb))** - Final project for GLBL 5050 - Intro to Python for Global Affairs. Analyzing Humanitarian Aid supply and aid worker incidents in the Gaza Strip in the Israel Hamas conflict. (Oct. 2023 - Nov. 2024) 
+1. **[GLBL5050 Final Project](https://github.com/Angela1112005/Intro_Python_HW/blob/467467d5be8aa77261f2ac5fadfae9ebe87e091c/GLBL%205050%20Final%20Project.ipynb)** - Final project for GLBL 5050 - Intro to Python for Global Affairs. Analyzing Humanitarian Aid supply and aid worker incidents in the Gaza Strip in the Israel Hamas conflict. (Oct. 2023 - Nov. 2024) 
 
 ---
 
