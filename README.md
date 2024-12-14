@@ -14,22 +14,14 @@ I am a developer, student, and lifelong learner. Here's what I'm currently worki
 
 ## Projects
 Here are some of my favorite projects:
-1. **[Project Name 1](https://github.com/yourusername/project1)** - Brief description.
-2. **[Project Name 2](https://github.com/yourusername/project2)** - Brief description.
-
----
-
-## Blog
-Check out my blog posts:
-- [Post 1](https://yourusername.github.io/blog/post1) - *Topic overview*.
-- [Post 2](https://yourusername.github.io/blog/post2) - *Topic overview*.
+1. **[GLBL5050 Final Project]([https://github.com/yourusername/project1](https://github.com/Angela1112005/Intro_Python_HW/blob/main/GLBL%205050%20Final%20Project.ipynb))** - Final project for GLBL 5050 - Intro to Python for Global Affairs. Analyzing Humanitarian Aid supply and aid worker incidents in the Gaza Strip in the Israel Hamas conflict. (Oct. 2023 - Nov. 2024) 
 
 ---
 
 ## Contact Me
 Want to collaborate or get in touch? Reach me here:
-- 📧 Email: yourname@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 📧 Email: angela.chen.arc225@yale.edu
+- 💼 [LinkedIn](www.linkedin.com/in/angela-chen-09229930b)
 
 ---
 
